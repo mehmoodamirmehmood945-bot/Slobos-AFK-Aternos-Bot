@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ali_mc_pro-jmpa.aternos.me:
+    "port": 55737
     "version": "",
     "try-creative": false
   },
@@ -41,7 +41,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {
+  "movement": {true
     "enabled": true,
     "circle-walk": {
       "enabled": true,
